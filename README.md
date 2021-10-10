@@ -1,1 +1,1 @@
-<h1>Manuel Martínez</h1>
+<h1 align="center">Manuel Martínez</h1>
