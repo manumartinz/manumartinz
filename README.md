@@ -39,19 +39,6 @@
 <a href="https://www.linkedin.com/in/manuel-mart%C3%ADnez-09651b1b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@manuelmartinez-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:manumartinz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-manumartinz@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
-
-
-<p align="center">
-  <a href="https://manumartinz.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://manumartinz.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://manumartinz.vercel.app/api/top-played">
-</p>
  
 
 <p align="center"> 
