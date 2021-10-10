@@ -40,6 +40,20 @@
 <a href="mailto:manumartinz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-manumartinz@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+
+
+<p align="center">
+  <a href="https://manumartinz.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://manumartinz.vercel.app/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://manumartinz.vercel.app/api/top-played">
+</p>
+ 
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/manumartinz/count.svg" />
