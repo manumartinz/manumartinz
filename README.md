@@ -28,9 +28,9 @@
 
 <h2>Github Stats!</h2>
 
-![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manumartinz&theme=tokyonight &show_icons=true)
+![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manumartinz&theme=tokyonight&show_icons=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumartinz&theme=tokyonight &show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumartinz&theme=tokyonight&show_icons=true)
 
 <br><br>
 
