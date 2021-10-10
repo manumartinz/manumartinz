@@ -1,5 +1,29 @@
 <h1 align="center">Hi there 👋 I'm <a href="https://manu-martinez.netlify.app/#inicio" target="_blank">Manuel A. Martínez</a></h1>
 
+<h2>👨🏻•💻 About me!</h2>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+
+- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+
+- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+- 💻 &nbsp; JavaScript | ReactJS | Python | Git
+
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Sass 
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; React Native | Angular
+
+<hr>
 
 
 <h2>Github Stats!</h2>
