@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Frontend Development at <a href="https://coderhouse.com">Coderhouse</a>.
+- 🎓 &nbsp; Studying Frontend Development at <a href="https://www.coderhouse.com/" target="_blank">Coderhouse</a>.
 
 - 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
 
