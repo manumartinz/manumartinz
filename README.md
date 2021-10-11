@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Studying Frontend Development at <a href="https://www.coderhouse.com/" target="_blank">Coderhouse</a> and Software Development.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Learning about Web Design.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
