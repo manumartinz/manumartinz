@@ -21,7 +21,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; React Native | Angular
+- 🔧 &nbsp; TypeScript | React Native | Angular
 
 <hr>
 
