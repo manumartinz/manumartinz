@@ -10,6 +10,8 @@
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
+- 🎵 &nbsp; I love music VERY much.
+
 
 <h3>🛠 Tech Stack</h3>
 
