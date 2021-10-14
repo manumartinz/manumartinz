@@ -12,6 +12,8 @@
 
 - 🎵 &nbsp; I love music VERY much.
 
+- 🌎 &nbsp; I am from Argentina, Córdoba.
+
 
 <h3>🛠 Tech Stack</h3>
 
