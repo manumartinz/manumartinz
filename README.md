@@ -8,8 +8,6 @@
 
 - 🌱 &nbsp; Learning about Web Design.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
 - 🎵 &nbsp; I love music VERY much.
 
 - 🌎 &nbsp; I am from Argentina, Córdoba.
