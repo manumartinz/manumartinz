@@ -42,7 +42,7 @@
 <a href="mailto:manumartinz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-manumartinz@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 --> 
-
+<hr>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/manumartinz/count.svg" />
