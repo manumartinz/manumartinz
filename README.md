@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm <a href="https://manu-martinez.netlify.app/#inicio" target="_blank">Manuel A. Martínez</a></h1>
+<h1 align="center">Hi there 👋 I'm <a href="" target="_blank">Manuel A. Martínez</a></h1>
 
 <h2>👨🏻•💻 About me!</h2>
 
