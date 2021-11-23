@@ -34,14 +34,14 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumartinz&layout=compact&theme=tokyonight&show_icons=true)
 
-
+<!--
 <h2>Connect with me!</h2>
 <p align="center">
 <a href="https://manu-martinez.netlify.app/#inicio" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/manuel-mart%C3%ADnez-09651b1b6/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@manuelmartinez-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:manumartinz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-manumartinz@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
- 
+--> 
 
 <p align="center"> 
   Visitor count<br>
