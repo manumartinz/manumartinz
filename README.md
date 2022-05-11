@@ -4,11 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Frontend Development at <a href="https://www.coderhouse.com/" target="_blank">Coderhouse</a> and Software Development.
+- 🎓 &nbsp; Studying Frontend Development and Software Development.
 
 - 🌱 &nbsp; Learning about Web Design.
-
-- 🎵 &nbsp; I love music VERY much.
 
 - 🌎 &nbsp; I am from Argentina, Córdoba.
 
