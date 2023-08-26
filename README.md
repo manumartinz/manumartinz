@@ -2,9 +2,9 @@
 
 <h2>👨🏻•💻 About me!</h2>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying Frontend Development and Software Development.
+- 🎓 &nbsp; Studying Frontend Development.
 
 - 🌱 &nbsp; Learning about Web Design.
 
@@ -14,14 +14,14 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; JavaScript | ReactJS | Python | Git
+- 💻 &nbsp; JQuery / Javascript / Typescript / React / Angular | PHP / Laravel | Git
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Sass 
+- 🌐 &nbsp; HTML | CSS | Bootstrap / Material UI | Sass 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; TypeScript | React Native | Angular | NodeJS
+- 🔧 &nbsp; AWS | SQL | Svelte | Node
 
 <hr>
 
