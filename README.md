@@ -34,6 +34,8 @@
   <img src="https://profile-counter.glitch.me/manumartinz/count.svg" />
 </p>
 
+<hr>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=manumartinez6&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=manumartinez6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
 
 ## 🐍 A Snake Eating my Contributions Graph
 	
