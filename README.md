@@ -1,6 +1,10 @@
 <img src="./img/headerreadme.png">
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 align="center">I'm Frontend Developer at EncodeLabs!</h1>
+
+<br>
 
 <h2>👨🏻•💻 About me!</h2>
 
@@ -15,11 +19,11 @@
 - 💻 &nbsp; Javascript / Typescript / React / Angular / Nextjs / NodeJS / Express / NestJS / PHP - Laravel - Symfony
 - 📎&nbsp; Figma / JIRA / Docker 
 
+<!--
 <h2>Github Stats!</h2>
-
 ![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manumartinz&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumartinz&layout=compact&theme=tokyonight&show_icons=true)
-
+--> 
 <!--
 <h2>Connect with me!</h2>
 <p align="center">
@@ -28,16 +32,17 @@
 <a href="mailto:manumartinz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-manumartinz@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 --> 
-<hr>
+<br>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/manumartinz/count.svg" />
 </p>
-
-<hr>
+<br>
+<!--
+<hr> 
 [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=manumartinez6&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=manumartinez6&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
-
-## 🐍 A Snake Eating my Contributions Graph
+ -->
+<h2> 🐍 A Snake Eating my Contributions Graph</h2>
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
