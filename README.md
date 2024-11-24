@@ -1,35 +1,23 @@
-<h1 align="center">Hi there 👋 I'm <a href="" target="_blank">Manuel A. Martínez</a></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h1 align="center">Hi 👋 I'm <a href="" target="_blank">Manuel A. Martínez</a>, I'm Frontend Developer!</h1>
 
 <h2>👨🏻•💻 About me!</h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying Frontend Development.
+- 🌱 &nbsp; Learning about UX/UI Design.
 
-- 🌱 &nbsp; Learning about Web Design.
-
-- 🌎 &nbsp; I am from Argentina, Córdoba.
-
+- 🌎 &nbsp; I'm from Argentina, Córdoba.
 
 <h3>🛠 Tech Stack</h3>
 
-
-- 💻 &nbsp; JQuery / Javascript / Typescript / React / Angular | PHP / Laravel | Git
-
-- 🌐 &nbsp; HTML | CSS | Bootstrap / Material UI | Sass 
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | SQL | Svelte | Node
-
-<hr>
-
+- 💻 &nbsp; Javascript / Typescript / React / Angular / Nextjs / NodeJS / Express / NestJS / PHP - Laravel - Symfony
+- 📎&nbsp; Figma / JIRA / Docker 
 
 <h2>Github Stats!</h2>
 
 ![Manu's github stats](https://github-readme-stats.vercel.app/api?username=manumartinz&theme=tokyonight&show_icons=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manumartinz&layout=compact&theme=tokyonight&show_icons=true)
 
 <!--
@@ -45,3 +33,14 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/manumartinz/count.svg" />
 </p>
+
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
