@@ -1,6 +1,6 @@
 <img src="./img/headerreadme.png">
 
-<h1 align="center">Hi 👋 I'm <a href="" target="_blank">Manuel A. Martínez</a>, I'm Frontend Developer!</h1>
+<h1 align="center">I'm Frontend Developer at EncodeLabs!</h1>
 
 <h2>👨🏻•💻 About me!</h2>
 
